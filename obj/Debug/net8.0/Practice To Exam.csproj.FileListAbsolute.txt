@@ -1,0 +1,14 @@
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\bin\Debug\net8.0\Practice To Exam.exe
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\bin\Debug\net8.0\Practice To Exam.deps.json
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\bin\Debug\net8.0\Practice To Exam.runtimeconfig.json
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\bin\Debug\net8.0\Practice To Exam.dll
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\bin\Debug\net8.0\Practice To Exam.pdb
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.AssemblyInfoInputs.cache
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.AssemblyInfo.cs
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.csproj.CoreCompileInputs.cache
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.dll
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\refint\Practice To Exam.dll
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.pdb
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\Practice To Exam.genruntimeconfig.cache
+C:\Users\donyb\Desktop\Handasat Tochna\Practice To Exam\obj\Debug\net8.0\ref\Practice To Exam.dll
